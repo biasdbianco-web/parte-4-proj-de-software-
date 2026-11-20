@@ -1,0 +1,10 @@
+out/
+sources.txt
+# dados gerados em tempo de execução (planos.csv e pratos.csv continuam versionados)
+data/assinantes.csv
+data/assinaturas.csv
+data/itens_pedido.csv
+data/protocolo.txt
+.idea/
+*.iml
+.vscode/
